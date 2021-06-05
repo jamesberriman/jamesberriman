@@ -1,5 +1,11 @@
 ### Hi there 👋
 Read all about me: https://lnk.bio/jamesberriman
+
+[![twitter](https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/jamesberriman)
+[![facebook](https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/berriman)
+[![linkedin](https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/jamesberriman)
+
+
 <!--
 **jamesberriman/jamesberriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
