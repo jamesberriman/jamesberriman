@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Read all about me: https://lnk.bio/jamesberriman
 <!--
 **jamesberriman/jamesberriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
