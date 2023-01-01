@@ -1,4 +1,8 @@
 ### Hi there 👋
+Happy New Year everyone. Here’s hoping that ‘Everything Is Gonna Be Alright’. 🎸❤️
+
+https://www.facebook.com/berriman/videos/1447973599342388/
+
 Read all about me: https://lnk.bio/jamesberriman
 
 [![twitter](https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/jamesberriman)
